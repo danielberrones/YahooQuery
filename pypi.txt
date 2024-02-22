@@ -1,0 +1,1 @@
+https://pypi.org/project/yahooquery/1.1.0/
